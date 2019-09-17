@@ -1,3 +1,4 @@
 password.txt
 logs/
 *.pdf
+.idea/
